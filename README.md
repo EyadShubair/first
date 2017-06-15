@@ -1,4 +1,3 @@
-o3 telecom.com
-hi
-go
-
+aaa
+bbb
+ccc
